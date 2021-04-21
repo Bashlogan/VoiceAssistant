@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif !important;
+}
+
+#root,
+html,
+body {
+  height: 100vh;
+  background-color: whitesmoke;
+}
+
+html {
+  scroll-behavior: smooth;
+}
